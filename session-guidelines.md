@@ -2,17 +2,15 @@
 
 # Session Guidelines
 
-## Overview
+## Overview :telescope:
 
 The UI/UX Challenge is an intraschool **tech** and **design** festival. Featuring participants from Grades 6 - 12 in an exciting and fast paced **5** Day development period. Equipped with 1:1 mentorship sessions, students are placed in an industry like simulation competing for the best of what **tech** and **design** has to offer.
 
 
 ## Competition Outcome :mortar_board:
 
-Teams are to create an **interactive**[^1] UI design for an app[^2] of there choice related to the event themes. Teams can both ideate their own  idea or redesign existing apps related to the event theme.Teams finally prepare a pitch deck showcasing both their ideation, user story and final UI design to a panel of Judges. 
+Teams are to create an **interactive**<sup id="a1">[1](#f1)</sup> UI design for an app<sup id="a2">[2](#f2)</sup> of there choice related to the event themes. Teams can both ideate their own  idea or redesign existing apps related to the event theme.Teams finally prepare a pitch deck showcasing both their ideation, user story and final UI design to a panel of Judges. 
 
-[^2]: Apps can both be mobile,web or desktop. 
-[^1]: Designs cannot be plain static images and must have an element of reactivity/animaiton.
 
 ## Awards :trophy:
 
@@ -78,3 +76,10 @@ For advanced users we recommned the following tools (inclusive of paid):
  **A**: Yes, absolutely. The competition is 0 code based and open to all regardless of art and design skills. For further assistance kindly refer to the [Developer Handbook](Developer-Handbook.md). 
 
 *|-Work in progress-|*
+
+
+### Footnotes
+
+<b id="f1">1</b>: Designs cannot be plain static images and must have an element of reactivity/animaiton.[↩](#a1)
+
+<b id="f2">2</b>: Apps can both be mobile,web or desktop.[↩](#a2)

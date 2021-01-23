@@ -79,7 +79,7 @@ For advanced users we recommned the following tools (inclusive of paid):
 
 
 ### Footnotes
-
+---
 <b id="f1">1</b>: Designs cannot be plain static images and must have an element of reactivity/animaiton.[↩](#a1)
 
 <b id="f2">2</b>: Apps can both be mobile,web or desktop.[↩](#a2)

@@ -9,14 +9,14 @@ The UI/UX Challenge is an intraschool **tech** and **design** festival. Featurin
 
 ## Competition Outcome :mortar_board:
 
-Teams are to create an **interactive**<sup id="a1">[1](#f1)</sup> UI design for an app<sup id="a2">[2](#f2)</sup> of their choice related to the event themes. Teams can both ideate their own  idea or redesign existing apps related to the event theme. Teams finally prepare a pitch deck showcasing both their ideation, user story and final UI design to a panel of Judges. 
+Teams are to create an **interactive**<sup id="a1">[1](#f1)</sup> UI design for an app<sup id="a2">[2](#f2)</sup> of their choice related to the event themes. Teams can both ideate a product or redesign existing apps related to the event theme. Teams finally prepare a pitch deck showcasing both their ideation, user story and final UI design to a panel of Judges. 
 
 
 ## Awards :trophy:
 
 We know participation certificates are boring. Don't worry we have you covered. All teams will receive personalised letters of recommendation from the panel of judges and mentors. Additionally, winning teams will receive a **trophy** as a memento for their great effort and innovation.
 
-Winners will also receive exclusive scholarship access to an in-house app product development course. 
+Winners will also receive exclusive scholarship access to an in-house product development course. 
 
 
 ## Event Themes :earth_asia:
@@ -64,14 +64,14 @@ For advanced users, we recommend the following tools (inclusive of paid):
 
 - **Accessibility:** Ease of use and navigation => 25%
 
-- **Visual Appeal:** Apt use of design fundamentals to create a cohesive user experience = 25%
+- **Visual Appeal:** Apt use of design fundamentals to create a cohesive user experience => 25%
 
 
 ## FAQ :question:
 
  **Q**: Can my friends from other schools join me in the competition?
 
- **A**: No. This event is only for the students of [Legacy School Bangalore](lsb.edu.in), however, we are working on a Mega Hackathon in Mid - 2021
+ **A**: No. This event is only for the students of [Legacy School Bangalore](lsb.edu.in), however, we are working on an interschool Mega Hackathon in Mid - 2021.
 
  **Q**: I have no design or coding experience. Can I still participate?
 
@@ -84,4 +84,4 @@ For advanced users, we recommend the following tools (inclusive of paid):
 ---
 <b id="f1">1</b>: Designs cannot be plain static images and must have an element of reactivity/animation.[↩](#a1)
 
-<b id="f2">2</b>: Apps can both be mobile, web or desktop.[↩](#a2)
+<b id="f2">2</b>: Apps can either be mobile, web or desktop.[↩](#a2)

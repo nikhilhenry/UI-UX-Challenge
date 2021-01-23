@@ -9,19 +9,21 @@ The UI/UX Challenge is an intraschool **tech** and **design** festival. Featurin
 
 ## Competition Outcome :mortar_board:
 
-Teams are to create an **interactive**<sup id="a1">[1](#f1)</sup> UI design for an app<sup id="a2">[2](#f2)</sup> of there choice related to the event themes. Teams can both ideate their own  idea or redesign existing apps related to the event theme.Teams finally prepare a pitch deck showcasing both their ideation, user story and final UI design to a panel of Judges. 
+Teams are to create an **interactive**<sup id="a1">[1](#f1)</sup> UI design for an app<sup id="a2">[2](#f2)</sup> of their choice related to the event themes. Teams can both ideate their own  idea or redesign existing apps related to the event theme.Teams finally prepare a pitch deck showcasing both their ideation, user story and final UI design to a panel of Judges. 
 
 
 ## Awards :trophy:
 
-We know participation certificates are boring. Don't worry we have you covered. All teams will recieve personalised letters of suprevision from the panel of Judges and mentors. Additionally, winning teams will recieve a **trophy** as a memento for their great effort and innovation.  
+We know participation certificates are boring. Don't worry we have you covered. All teams will recieve personalised letters of recommendation from the panel of Judges and mentors. Additionally, winning teams will recieve a **trophy** as a memento for their great effort and innovation.
+
+Winners will also recieve exclusive scholarship access to an in-house app product development course. 
 
 
 ## Event Themes :earth_asia:
 
-*Event themes are to be unveiled on the 20th of Feburary* and
+*Event themes are to be unveiled on the 20th of Feburary*
 
-Follow this page for more updats
+Follow this page for more updates.
 
 ## Team Size and Categories :school_satchel:
 
@@ -35,11 +37,11 @@ Team categories are as follows:
 
 ## Daily Design Review :mag:
 
-Teams are to be submit daily updates of their project work onto the event **Google Classroom** page for purposes of authenticity. Teams fail to upload updates once, will recieve a warning. Teams failing to do so for the second time, will be disqualified upon discretion of the event committee. 
+Teams are to be submit daily updates of their project work onto the event [Google Classroom](classroom.google.com) page for purposes of authenticity. Teams failing to upload updates once, will recieve a warning. Teams failing to do so for the second time, will be disqualified upon discretion of the event committee. 
 
-## Recommended Software Suit :dvd:
+## Recommended Software Suite :dvd:
 
-For new comers we recommed the free following tools.
+For new comers we recommend the following free tools.
 
 - [Adobe XD](https://www.adobe.com/in/products/xd.html) 
 - [Framer](https://www.framer.com/)
@@ -51,16 +53,16 @@ For advanced users we recommned the following tools (inclusive of paid):
 - [Invision Studio](https://www.invisionapp.com/studio)
 - [Justinmind](https://www.justinmind.com/)
 
-*Participants are of course free to use any software suit that meets their needs the best. Yes, this could also include [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) and [Keynote](https://www.apple.com/in/keynote/)*
+*Participants are of course free to use any software suite that meets their needs the best. Yes, this could also include [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) or [Keynote](https://www.apple.com/in/keynote/)*
 
 
 ## Judgement Criteria :dart:
 
-- **Innovation:** Originality and creativity of the idea = 25% 
+- **Innovation:** Originality and creativity of the idea => 25% 
 
-- **Potential Impact for Good:** Impact on community and society = 25% 
+- **Potential Impact for Good:** Impact on community and society => 25% 
 
-- **Accesibility:** Ease of use and navigatino = 25%
+- **Accesibility:** Ease of use and navigation => 25%
 
 - **Visual Appeal:** Apt use of design fundamentals to create a cohesive user experience = 25%
 
@@ -69,9 +71,9 @@ For advanced users we recommned the following tools (inclusive of paid):
 
  **Q**: Can my friends from other schools join me in the competition?
 
- **A**: No. This event is only for the students of [Legacy School Bangalore](lsb.edu.in), however we are working on a Mega Hackathon in Mmid - 2021
+ **A**: No. This event is only for the students of [Legacy School Bangalore](lsb.edu.in), however we are working on a Mega Hackathon in Mid - 2021
 
- **Q**: I have no design or coding experience. Can I still participate>
+ **Q**: I have no design or coding experience. Can I still participate?
 
  **A**: Yes, absolutely. The competition is 0 code based and open to all regardless of art and design skills. For further assistance kindly refer to the [Developer Handbook](Developer-Handbook.md). 
 

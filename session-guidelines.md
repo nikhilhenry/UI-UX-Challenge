@@ -41,7 +41,7 @@ Teams are to submit daily updates of their project work onto the event [Google C
 
 ## Recommended Software Suite :dvd:
 
-For newcomers we recommend the following free tools.
+For newcomers, we recommend the following free tools.
 
 - [Adobe XD](https://www.adobe.com/in/products/xd.html) 
 - [Framer](https://www.framer.com/)
@@ -82,6 +82,6 @@ For advanced users we recommned the following tools (inclusive of paid):
 
 ### Footnotes
 ---
-<b id="f1">1</b>: Designs cannot be plain static images and must have an element of reactivity/animaiton.[↩](#a1)
+<b id="f1">1</b>: Designs cannot be plain static images and must have an element of reactivity/animation.[↩](#a1)
 
-<b id="f2">2</b>: Apps can both be mobile,web or desktop.[↩](#a2)
+<b id="f2">2</b>: Apps can both be mobile, web or desktop.[↩](#a2)

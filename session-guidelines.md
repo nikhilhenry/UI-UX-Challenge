@@ -47,7 +47,7 @@ For newcomers, we recommend the following free tools.
 - [Framer](https://www.framer.com/)
 - [Figma](https://www.figma.com/)
 
-For advanced users we recommned the following tools (inclusive of paid):
+For advanced users, we recommend the following tools (inclusive of paid):
 
 - [Sketch](https://www.sketch.com/)
 - [Invision Studio](https://www.invisionapp.com/studio)

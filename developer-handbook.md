@@ -4,12 +4,12 @@
 
 ## Overview :eyes:
 
-Learning a new skill can definetly by daunting. Not because it's particulary hard but due to vast influx of information out there. Presenting the UI/UX Developer Handbook, a list of **hand picked high quality** content in the realm of all things UI/UX and creating stellar experiences. This handbook aims to streamline the process of self learning in an accessible and immersive manner. Curated by self learner who was very much in your shoes once. 
+Learning a new skill can definitely be daunting. Not because it's particularly hard but due to vast influx of information out there. Presenting the UI/UX Developer Handbook, a list of **handpicked high-quality** content in the realm of all things UI/UX and creating stellar experiences. This handbook aims to streamline the process of self-learning in an accessible and immersive manner. Curated by a self-learner who was very much in your shoes once. 
 
 Wish you much success in helping make the world through better design. :clap:
 
 
-*The following ranks are purely aribitary. You are free to explore the content in an order that suits you best.*
+*The following ranks are purely arbitrary.. You are free to explore the content in an order that suits you best.*
 
 ## Beginner :star:
 
@@ -32,7 +32,7 @@ Wish you much success in helping make the world through better design. :clap:
 - [The User-Centered Design Process](https://www.youtube.com/watch?v=dKziavNRuis)
 - [What is the UX design process?](https://www.youtube.com/watch?v=Um3BhY0oS2c)
 
-## Intermidiate :star: :star:
+## Intermediate :star: :star:
 
 ### Free Video Content :clapper:
 
@@ -69,8 +69,8 @@ Wish you much success in helping make the world through better design. :clap:
 ### Written Content :writing_hand:
 
 1. [Why White Space Is Crucial To UX Design](https://www.fastcompany.com/3046656/why-white-space-is-crucial-to-ux-design)
-2. [5 must read articles on UI design.](https://blog.prototypr.io/5-must-read-articles-on-ui-design-d27b2cbbd940)
-3. [Enhancing User Experience Through Customisation of UI Design](https://www.sciencedirect.com/science/article/pii/S2351978915002383)  *:warning:Warning: ultra advanced:warning:*
+2. [5 must-read articles on UI design.](https://blog.prototypr.io/5-must-read-articles-on-ui-design-d27b2cbbd940)
+3. [Enhancing User Experience Through Customisation of UI Design](https://www.sciencedirect.com/science/article/pii/S2351978915002383)  *:warning:Warning: ultra-advanced:warning:*
 
 ### Areas for exploration :rocket:
 
